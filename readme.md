@@ -1,9 +1,6 @@
-- [] Design optimieren (z.B. Fonts, Colors)
-- [] Den ersten Entry direkt geöffnet anzeigen (oder alle?)
-- [] Signature Footer
-- [] Code Optimierung
-  - [] Height Changing in extra Funktion auslangern
-  - [] usw.
-- [] CSS eloquenter machen
-  - [] Multiple Klassen besser verteilen
-  - [] Schauen ob ich überall Variablen, etc. verwendet habe
+# JS-ACCORDION
+https://pr1m0x.github.io/JS-ACCORDION/
+
+👉 Building a JS-ACCORDION by using HTML, CSS and JS.
+
+❓*Don't hesitate and [message me](mailto:kraemer.timo1@gmail.com) for any further questions.*
