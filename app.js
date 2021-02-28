@@ -13,7 +13,8 @@ const bodyWrap = document.querySelectorAll(".body__wrap");
 
 accordion.forEach((e) => {
   e.addEventListener("click", (e) => {
-    console.log(e.currentTarget.nextElementSibling);
+    console.log(e.target.scrollHeight);
+
     e.currentTarget.nextElementSibling.classList.toggle("active");
     if (e.currentTarget.nextElementSibling.classList.contains("active")) {
       e.currentTarget.nextElementSibling.setAttribute(

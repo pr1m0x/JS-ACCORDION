@@ -1,3 +1,0 @@
-- `"if"`: Suche nach allen If-Else-Statements (*Ternary Operator*)
-- `"1-9"`: Suche nach allen Zahlen (*Alle Werte in Containern*)
-- `) {`: Suche nach Funktionsstrukturen *(Default-Parameter, Arguments, usw.*)
